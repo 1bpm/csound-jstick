@@ -19,7 +19,7 @@ Create a build directory at the top of the source tree, execute *cmake ..*, *mak
 
 ## Opcode overview
 ### jstick 
-*kaxes[] kbuttons[] jstick inum
+*kaxes[] kbuttons[] jstick inum*
 
 Obtain joystick data at k-rate.
 
