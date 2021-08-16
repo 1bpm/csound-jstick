@@ -5,7 +5,7 @@ The opcode uses evdev so only works on Linux.
 
 ## Requirements
  - Csound development libraries
- - Cmake 3.8 or later
+ - Cmake 2.8.12 or later
 
 
 ## Building
